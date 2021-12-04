@@ -1,17 +1,3 @@
-# BREEPACK
+# breepack
 
-## Features
-
-more cracked stone brick patterns and variations for
-* bookshelf
-* stonebrick (cracked, infested, mossy)
-* dandelion
-* ice
-* tallgrass
-* poppy
-* gravel
-
-pebbles appear on grass, with small flowers appearing as well
-poppies have a rose variations
-
-tools now become more visiably worn down based on the durability
+adds small features like vanilla styled bookshelf variations and grass block feature variations (small flowers, pebbls)
