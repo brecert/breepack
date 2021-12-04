@@ -1,0 +1,6 @@
+{
+  "parent": "bree:block/grass_block_flower",
+  "textures": {
+    "overlay_top": "bree:block/overlay/grass_flowers_2"
+  }
+}
