@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bookshelf",
+  "textures": {
+    "side": "bree:block/bookshelf_3"
+  }
+}
